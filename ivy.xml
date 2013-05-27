@@ -1,0 +1,8 @@
+<ivy-module version="2.0">
+    <info organisation="com.dayang" module="hibernate-utils"/>
+    <dependencies>
+    	<dependency org="org.hibernate" name="hibernate-tools" rev="3.6.0.CR1"/>
+        <dependency org="commons-cli" name="commons-cli" rev="1.2"/>      
+        <dependency org="mysql" name="mysql-connector-java" rev="5.1.25"/>
+    </dependencies>
+</ivy-module>
